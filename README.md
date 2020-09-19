@@ -7,9 +7,11 @@
 The website will allow you to enter a locataion and obtain weather data from an API and show the data to the user.
 
 ## API and Data Sample
-API-- [https://api.oceandrivers.com:443/v1.0/getWeatherDisplay/seattle/?period=latestdata]
+API Website --  https://api.oceandrivers.com/static/docs.html#!/ODWeather/getWeatherDisplay_get_2
 
-Data Sample-- 
+API -- [https://api.oceandrivers.com:443/v1.0/getWeatherDisplay/seattle/?period=latestdata]
+
+Data Sample -- 
 ```
 {
   "TWS_GUST_MAX": {
