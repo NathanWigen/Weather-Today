@@ -9,7 +9,7 @@ The website will allow you to enter a locataion and obtain weather data from an 
 ## API and Data Sample
 API Website --  https://api.oceandrivers.com/static/docs.html#!/ODWeather/getWeatherDisplay_get_2
 
-API -- [https://api.oceandrivers.com:443/v1.0/getWeatherDisplay/seattle/?period=latestdata]
+API -- https://api.oceandrivers.com:443/v1.0/getWeatherDisplay/seattle/?period=latestdata
 
 Data Sample -- 
 ```
@@ -46,7 +46,7 @@ Data Sample --
 
 ## Wireframes
 
-[https://www.figma.com/file/hsPE7vOhGGzVipOKeDDzQx/Untitled?node-id=0%3A1] -- Desktop
+https://www.figma.com/file/hsPE7vOhGGzVipOKeDDzQx/Untitled?node-id=0%3A1 -- Desktop
 
 ### MVP/PostMVP
 
@@ -75,19 +75,19 @@ Data Sample --
 
 ## Priority Matrix
 
-[https://docs.google.com/drawings/d/1H-B1lQaWeTxVBeJkpqhZavImJDeMT4nZD570-kOK27s/edit?usp=sharing]
+https://docs.google.com/drawings/d/1H-B1lQaWeTxVBeJkpqhZavImJDeMT4nZD570-kOK27s/edit?usp=sharing
 
 ## Timeframes
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| HTML Core Code | L | 3hrs|  |  |
+| HTML Core Code | H | 3hrs|  |  |
 | JS Core Code | H | 8hrs|  |  |
 | Select Color Palet in CSS | M | 3hrs|  |  |
 | CSS Styling | M | 3hrs|  |  |
 | JS Debuging | M | 3hrs|  |  |
-| HTML Debugging | L | 2hrs|  |  |
-| CSS Debugging | L | 3hrs|  |  |
+| HTML Debugging | H | 2hrs|  |  |
+| CSS Debugging | H | 3hrs|  |  |
 | Working with API | H | 3hrs| |  |
 | Total | H | 28hrs|  |  |
 
