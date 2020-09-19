@@ -77,19 +77,18 @@ Data Sample--
 
 ## Timeframes
 
-Tell us how long you anticipate spending on each area of development. Be sure to consider how many hours a day you plan to be coding and how many days you have available until presentation day.
-
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe. Throughout your project, keep track of your Time Invested and Actual Time and update your README regularly.
-
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs | 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs | 2.5hrs |
-| Total | H | 6hrs| 5hrs | 5hrs |
+| HTML Core Code | L | 2hrs|  |  |
+| JS Core Code | H | 8hrs|  |  |
+| CSS Styling | M | 3hrs|  |  |
+| JS Debuging | M | 2hrs|  |  |
+| HTML Debugging | L | 1hrs|  |  |
+| CSS Debugging | L | 1hrs|  |  |
+| Working with API | H | 3hrs| |  |
+| Total | H | 20hrs|  |  |
 
 ## Code Snippet
-
-Use this section to include a brief code snippet of functionality that you are proud of and a brief description.  
 
 
 ## Change Log
