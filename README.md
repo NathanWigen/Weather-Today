@@ -52,9 +52,9 @@ https://www.figma.com/file/hsPE7vOhGGzVipOKeDDzQx/Untitled?node-id=0%3A1 -- Desk
 
 #### MVP 
 
-- Use Weather API to retrieve data.
+- Use Weather API to retrieve data and append data to DOM.
 - Show API Data on the webpage from users input location.
-- Clear old Weather date.
+- Clear old Weather data.
 
 #### PostMVP  
 
