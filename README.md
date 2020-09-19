@@ -81,12 +81,13 @@ Data Sample--
 | --- | :---: |  :---: | :---: | :---: |
 | HTML Core Code | L | 2hrs|  |  |
 | JS Core Code | H | 8hrs|  |  |
+| Select Color Palet in CSS | M | 3hrs|  |  |
 | CSS Styling | M | 3hrs|  |  |
 | JS Debuging | M | 2hrs|  |  |
 | HTML Debugging | L | 1hrs|  |  |
 | CSS Debugging | L | 1hrs|  |  |
 | Working with API | H | 3hrs| |  |
-| Total | H | 20hrs|  |  |
+| Total | H | 23hrs|  |  |
 
 ## Code Snippet
 
