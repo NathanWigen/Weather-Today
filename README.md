@@ -58,15 +58,15 @@ https://www.figma.com/file/hsPE7vOhGGzVipOKeDDzQx/Untitled?node-id=0%3A1 -- Desk
 
 #### PostMVP  
 
-- Change background to what weather user inputs
-- Use second API to show different weather data
+- Change background to what weather user inputs.
+- Use second API to show different weather data.
 
 
 ## Project Schedule
 
 |  Day | Deliverable | Status
 |---|---| ---|
-|Sept 18-21| Prompt / Wireframes / Priority Matrix / Timeframes | Incomplete
+|Sept 18-21| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
 |Sept 21| Project Approval | Incomplete
 |Sept 22| Core Application Structure (HTML, CSS, etc.) | Incomplete
 |Sept 23| MVP | Incomplete
