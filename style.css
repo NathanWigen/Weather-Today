@@ -1,0 +1,34 @@
+body{
+  text-align: center;
+}
+
+#head{
+  color: #ffffff;
+  background-color: #374761;
+  border: 5px dashed #000000;
+  padding: 10px;
+  margin: 20px;
+}
+
+input{
+  padding: 8px;
+  border-radius: 5px;
+  margin: 5px;
+}
+
+button{
+  color: #ffffff;
+  text-transform: uppercase;
+  border: 3px solid #000000;
+  background-color: #374761;
+  padding: 8px;
+}
+
+.search-section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+}
+
