@@ -15,6 +15,6 @@ const button = document.querySelector("#submit")
 button.addEventListener('click', async () => {
   let stationName = input.value
   const response = await axios(`${baseUrl}${stationName}${afterUrl}`)
-  console.log(response.data.TEMPERATURE);
-  // renderList(response.data.TEMPERATURE)
+  // console.log(response.data.TEMPERATURE);
+  renderList(response.data.TEMPERATURE)
 })
