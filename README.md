@@ -60,6 +60,7 @@ https://www.figma.com/file/hsPE7vOhGGzVipOKeDDzQx/Untitled?node-id=0%3A1 -- Desk
 
 - Change background to what weather user inputs.
 - Use second API to show different weather data.
+- Grab Font from Google Fonts.
 
 
 ## Project Schedule
