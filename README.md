@@ -82,7 +82,7 @@ https://docs.google.com/drawings/d/1H-B1lQaWeTxVBeJkpqhZavImJDeMT4nZD570-kOK27s/
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| HTML Core Code | H | 3hrs|  |  |
+| HTML Core Code | H | 3hrs| 13MIN |  |
 | JS Core Code | H | 8hrs|  |  |
 | Select Color Palet in CSS | M | 3hrs|  |  |
 | CSS Styling | M | 3hrs|  |  |
