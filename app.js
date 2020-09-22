@@ -15,8 +15,26 @@ const button = document.querySelector("#submit")
 button.addEventListener('click', async () => {
   let stationName = input.value
   const response = await axios(`${baseUrl}${stationName}${afterUrl}`)
-  console.log(response.data);
-  // renderList(response.data.TEMPERATURE)
+  // console.log(response.data);
+  renderList(response.data.TEMPERATURE)
 })
 
-const renderList
+const weatherDisplay = document.querySelector(".weather-data")
+
+
+const renderList = weather => {
+  weather.forEach(data => {
+    const dataContainer = document.createElement('div')
+    dataContainer.className = "weather-container"
+
+    let temp = document.createElement('h4')
+    temp.innerHTML = `${data.TEMPERATURE}`
+    weatherContainer.appendChild(temp)
+
+    let display = document.createElement('p')
+    display.innerHTML = `${data.WEATHER_DES}`
+    weatherContainer.appendChild(display)
+
+  })
+  weatherDisplay.appendChild(weatherContainer)
+}
