@@ -19,3 +19,4 @@ button.addEventListener('click', async () => {
   // renderList(response.data.TEMPERATURE)
 })
 
+const renderList
