@@ -23,7 +23,7 @@ const weatherDisplay = document.querySelector(".weather-data")
 
 
 const renderList = weather => {
-  weather.forEach(data => {
+  weather(data => {
     const dataContainer = document.createElement('div')
     dataContainer.className = "weather-container"
 
