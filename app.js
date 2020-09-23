@@ -36,16 +36,10 @@ function renderData(weatherResponse) {
   tempEle.textContent = weatherConversion(weatherResponse.TEMPERATURE)
   document.querySelector('h2').append(tempEle)
   
-  let condEle = document.createElement('p')
-  condEle.textContent = weatherResponse(weatherResponse.WEATHER_DES)
+  let condEle = document.createElement('h3')
+  condEle.textContent = `${weatherResponse.WEATHER_DES}`
   document.querySelector('h2').append(condEle)
 }
-
-// function renderData(weatherResponse) {
-//   let condEle = document.createElement('p')
-//   condEle.textContent = (response.data.WEATHER_DES)
-//   document.querySelector('h2').append(condEle)
-// }
 
 
  
