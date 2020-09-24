@@ -8,9 +8,11 @@ const input = document.querySelector("input")
 const form = document.querySelector("form")
 
 
-form.addEventListener('submit', async (e) => {
+form.addEventListener('submit', (e) => {
   e.preventDefault()
   let stationName = input.value
+  input.value = ''
+  removeEle()
   getCity(stationName)
 })
 
@@ -26,8 +28,6 @@ async function getCity(city) {
 }
 
 function renderData(weatherResponse) {
-  const weatherContainer = document.createElement('div')
-  weatherContainer.className = "weather-container"
 
   let tempEle = document.createElement('p')
   // Got the code for the Degree symbol from http://gdichicago.com/courses/gdi-featured-js-intro/homework.html#:~:text=Unicode%20Characters%3A%20To%20print%20the,celsius%20temperature%20into%20a%20variable.
@@ -37,6 +37,13 @@ function renderData(weatherResponse) {
   let condEle = document.createElement('h3')
   condEle.textContent = `Outside weather is ${weatherResponse.WEATHER_DES}.`
   document.querySelector('h2').append(condEle)
+}
+
+function removeEle() {
+  const weatherContainer = document.querySelector('h2')
+  while (weatherContainer.lastChild) {
+    weatherContainer.removeChild(weatherContainer.lastChild)
+  }
 }
 
 
