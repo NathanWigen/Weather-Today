@@ -2,10 +2,11 @@ body{
   text-align: center;
 }
 
-#title{
+#head{
+  font-family: 'Alfa Slab One', cursive;
   color: #ffffff;
   background-color: #374761;
-  border: 5px dashed #000000;
+  border: 1rem solid #000000;
   padding: 10px;
   margin: 20px;
 }
@@ -24,7 +25,13 @@ button{
   padding: 8px;
 }
 
-.search-section{
+#weather-info{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.search-location{
   display: flex;
   justify-content: center;
   align-items: center;
