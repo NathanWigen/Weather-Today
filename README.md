@@ -93,7 +93,7 @@ https://docs.google.com/drawings/d/1H-B1lQaWeTxVBeJkpqhZavImJDeMT4nZD570-kOK27s/
 | Total | H | 28hrs|  |  |
 
 ## Code Snippet
-The Code snippet I am most proud of is.
+This is the snippet of code that I am most proud of because I figured out how to use string concatenation with out any help.
 
 ```
   let condEle = document.createElement('h3')
