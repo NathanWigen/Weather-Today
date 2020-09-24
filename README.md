@@ -4,7 +4,7 @@
 
 ## Project Description
 
-The website will allow you to enter a locataion and obtain weather data from an API and show the data to the user.
+The website will allow you to enter a location and obtain weather data from an API and show the data to the user.
 
 ## API and Data Sample
 API Website --  https://api.oceandrivers.com/static/docs.html#!/ODWeather/getWeatherDisplay_get_2
@@ -71,7 +71,7 @@ https://www.figma.com/file/hsPE7vOhGGzVipOKeDDzQx/Untitled?node-id=0%3A1 -- Desk
 |Sept 21| Project Approval | Complete
 |Sept 22| Core Application Structure (HTML, CSS, etc.) | Complete
 |Sept 23| MVP | Complete
-|Sept 24| Post MVP/Styling | Incomplete
+|Sept 24| Post MVP/Styling | Complete
 |Sept 25| Presentations | Incomplete
 
 ## Priority Matrix
@@ -83,16 +83,21 @@ https://docs.google.com/drawings/d/1H-B1lQaWeTxVBeJkpqhZavImJDeMT4nZD570-kOK27s/
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | HTML Core Code | H | 3hrs| 13min |  |
-| JS Core Code | H | 8hrs| 7hr 2min |  |
-| Select Color Palet in CSS | M | 3hrs|  |  |
+| JS Core Code | H | 8hrs| 8hrs |  |
+| Select Color Palette in CSS | M | 3hrs| 2hrs  |  |
 | CSS Styling | M | 3hrs| 1hr |  |
-| JS Debuging | M | 3hrs| 4hrs |  |
+| JS Debugging | M | 3hrs| 5hrs |  |
 | HTML Debugging | H | 2hrs| 2hrs |  |
-| CSS Debugging | H | 3hrs|  |  |
-| Working with API | H | 3hrs| |  |
+| CSS Debugging | H | 3hrs| 2hrs |  |
+| Working with API | H | 3hrs| 3hrs |  |
 | Total | H | 28hrs|  |  |
 
 ## Code Snippet
+The Code snippet I am most proud of is.
 
-
+```
+  let condEle = document.createElement('h3')
+  condEle.textContent = `Outside weather is ${weatherResponse.WEATHER_DES}.`
+  document.querySelector('h2').append(condEle)
+```
 ## Change Log

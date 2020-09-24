@@ -1,6 +1,7 @@
 body{
   text-align: center;
-  background-image: url(https://images.unsplash.com/photo-1592385148581-7583a3daec7b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80);
+   background-image: url(https://images.unsplash.com/photo-1592385148581-7583a3daec7b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80);
+  background-size: 2000px 1000px;
 }
 
 #head{
@@ -33,6 +34,7 @@ button{
   background-color: #AAB8DB;
   opacity: 0.6;
   border: solid #000000;
+  margin: 20px;
 }
 
 .search-location{
