@@ -68,8 +68,8 @@ https://www.figma.com/file/hsPE7vOhGGzVipOKeDDzQx/Untitled?node-id=0%3A1 -- Desk
 |  Day | Deliverable | Status
 |---|---| ---|
 |Sept 18-21| Prompt / Wireframes / Priority Matrix / Timeframes | Complete
-|Sept 21| Project Approval | Incomplete
-|Sept 22| Core Application Structure (HTML, CSS, etc.) | Incomplete
+|Sept 21| Project Approval | Complete
+|Sept 22| Core Application Structure (HTML, CSS, etc.) | Complete
 |Sept 23| MVP | Incomplete
 |Sept 24| Post MVP/Styling | Incomplete
 |Sept 25| Presentations | Incomplete
@@ -83,11 +83,11 @@ https://docs.google.com/drawings/d/1H-B1lQaWeTxVBeJkpqhZavImJDeMT4nZD570-kOK27s/
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
 | HTML Core Code | H | 3hrs| 13min |  |
-| JS Core Code | H | 8hrs| 2hrs 30min |  |
+| JS Core Code | H | 8hrs| 7hr 2min |  |
 | Select Color Palet in CSS | M | 3hrs|  |  |
-| CSS Styling | M | 3hrs|  |  |
-| JS Debuging | M | 3hrs|  |  |
-| HTML Debugging | H | 2hrs|  |  |
+| CSS Styling | M | 3hrs| 1hr |  |
+| JS Debuging | M | 3hrs| 4hrs |  |
+| HTML Debugging | H | 2hrs| 2hrs |  |
 | CSS Debugging | H | 3hrs|  |  |
 | Working with API | H | 3hrs| |  |
 | Total | H | 28hrs|  |  |
