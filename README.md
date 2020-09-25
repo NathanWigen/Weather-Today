@@ -82,15 +82,15 @@ https://docs.google.com/drawings/d/1H-B1lQaWeTxVBeJkpqhZavImJDeMT4nZD570-kOK27s/
 
 | Component | Priority | Estimated Time | Time Invested | Actual Time |
 | --- | :---: |  :---: | :---: | :---: |
-| HTML Core Code | H | 3hrs| 13min |  |
-| JS Core Code | H | 8hrs| 8hrs |  |
-| Select Color Palette in CSS | M | 3hrs| 2hrs  |  |
-| CSS Styling | M | 3hrs| 1hr |  |
-| JS Debugging | M | 3hrs| 5hrs |  |
-| HTML Debugging | H | 2hrs| 2hrs |  |
-| CSS Debugging | H | 3hrs| 2hrs |  |
-| Working with API | H | 3hrs| 3hrs |  |
-| Total | H | 28hrs|  |  |
+| HTML Core Code | H | 3hrs| 3hrs | 1hr |
+| JS Core Code | H | 8hrs| 8hrs | 10hrs |
+| Select Color Palette in CSS | M | 3hrs| 2hrs  | 30min |
+| CSS Styling | M | 3hrs| 1hr | 3hrs |
+| JS Debugging | M | 3hrs| 5hrs | 6hrs |
+| HTML Debugging | H | 2hrs| 2hrs | 30min |
+| CSS Debugging | H | 3hrs| 2hrs | 30min |
+| Working with API | H | 3hrs| 3hrs | 1hr 30min |
+| Total | H | 28hrs| 26hrs | 22hrs |
 
 ## Code Snippet
 This is the snippet of code that I am most proud of because I figured out how to use string concatenation with out any help.
