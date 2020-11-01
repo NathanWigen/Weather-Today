@@ -2,6 +2,8 @@
 
 ## Weather Today
 
+https://nathanwigen.github.io/Weather-Today/
+
 ## Project Description
 
 The website will allow you to enter a location and obtain weather data from an API and show the data to the user.
